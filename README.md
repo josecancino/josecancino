@@ -1,4 +1,4 @@
-# 👋 José Cancino - Senior Full Stack Engineer
+# 👋 José Cancino Linares - Senior Full Stack Engineer
 
 **Team Lead & Senior Full Stack Engineer** | 10+ Years of Experience  
 📍 Kyiv, Ukraine | 📧 jose.cancino@outlook.com  
