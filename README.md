@@ -53,7 +53,7 @@ Experienced **Team Lead & Senior Full Stack Engineer** with 10+ years of proven 
 
 ### **Freelance - Team Lead & Full Stack Engineer** *(Jan 2020 – Mar 2022)*  
 **Projects:** E-commerce, Healthcare Platforms, Pet Food Stores  
-- Full-stack development: PHP, Symfony, React, MySQL  
+- Full-stack development: PHP, Codeigniter, MySQL  
 - Responsive, SEO-optimized websites, landing pages & admin dashboards  
 - Team leadership: requirements gathering, task distribution, supervision, client delivery
 
